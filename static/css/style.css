@@ -1,0 +1,9 @@
+body {
+    color:indigo
+}
+
+.jumbotron{
+    background-image: url('../images/dna.jpg');
+    color:white;
+    -webkit-text-stroke-color: black;
+}
